@@ -1,0 +1,6 @@
+python>=3.8.0
+numpy==^1.22.2
+discord==^1.7.3
+Flask==^2.0.3
+sklearn==^0.0
+pandas==^1.4.1
