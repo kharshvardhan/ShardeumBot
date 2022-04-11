@@ -1,10 +1,10 @@
 # ShardeumBot
-Shardeum is an EVM compatible sharded blockchain with infinite scalability, true decentralization and solid security. This is the official assistance bot for the community to learn and get updates on Sahrdeum
+Shardeum is an EVM compatible sharded blockchain with infinite scalability, true decentralization and solid security. This is the official assistance bot for the community to learn and get updates on Shardeeum
 
 ## Usecases
 
 ### FAQs
-To stay upto date on Shardeum, you can ask the bot a question, or check out the complete list of FAQ maintained by contributors of Sahrdeum.
+To stay upto date on Shardeum, you can ask the bot a question, or check out the complete list of FAQ maintained by contributors of Shardeum.
 
 - To start your conversation with the bot, send a "!hi"
 - To see all commands type "!commands"
